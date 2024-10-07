@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## ÖKLİD PYTHON UYGULAMASI
+# ## EUCLIDEAN DISTANCE PYTHON
 
 import math
 
