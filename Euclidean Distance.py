@@ -1,5 +1,3 @@
-# ## EUCLIDEAN DISTANCE PYTHON
-
 import math
 
 def euclideanDistance(point1, point2):
@@ -17,9 +15,4 @@ def minDistance(points):
 
 points = [(15, 18), (24, 59)]
 distance = minDistance(points)
-print("En kısa mesafe:", distance)
-
-
-
-
-
+print("Shortest distance:", distance)
